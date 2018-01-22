@@ -1,5 +1,5 @@
 ---
-Title: Deep Rienforcement Learning: A course on the subject 
+Title: Deep Reinforcement Learning, A course on the subject 
 Date: 2017-11-10 10:20
 Modified: Friday, 10. Nov 2017 02:06PM 
 Category: Article

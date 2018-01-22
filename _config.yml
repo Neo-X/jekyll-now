@@ -76,7 +76,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-theme-slate # theme for the blog
 
 # Exclude these files from your production _site
 exclude:
@@ -86,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
